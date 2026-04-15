@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=20)
 
-# 📊 Janvee Sharma
+# 📊 Janvee Sharma 
 
-### 🔍 Aspiring Data Analyst | SQL | Python | Excel | Power BI | Tabealu
+### 🔍 Aspiring Data Analyst | SQL | Python | Excel | Power BI | Tableau
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667eea&center=true&vCenter=true&width=550&lines=Turning+Raw+Data+into+Insights+📊;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+Dashboards+%26+Reports+📈;Open+to+Data+Analyst+Opportunities+🌟)](https://git.io/typing-svg)
 
@@ -18,9 +18,9 @@
 analyst = {
     "name"       : "Janvee Sharma",
     "location"   : "India 🇮🇳",
-    "skills"     : "SQL", "Python", "Excel", "Power BI", "Tableau",
+    "skills"     : ["SQL", "Python", "Excel", "Power BI", "Tableau"],
     "goal"       : "Land a Data Analyst role at a top MNC",
-    "strengths"  : "Data Cleaning", "EDA", "Dashboard Building", "Storytelling",
+    "strengths"  : ["Data Cleaning", "EDA", "Dashboard Building", "Storytelling"],
     "fun_fact"   : "I see patterns in everything 📊",
 }
 ```
@@ -57,15 +57,15 @@ analyst = {
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Excel — Basics to Advanced | ✅ Done |
+| 01 | Excel — Basics to Advanced | 🔄 In Progress |
 | 02 | SQL — Queries & Joins | ✅ Done |
-| 03 | Python for Data Analysis | 🔄 In Progress |
-| 04 | Pandas & NumPy | 🔄 In Progress |
-| 05 | Data Visualization (Matplotlib/Seaborn) | ⏳ Upcoming |
-| 06 | Power BI Dashboards | ⏳ Upcoming |
-| 07 | Statistics for Data Analysis | ⏳ Upcoming |
-| 08 | Capstone Projects | ⏳ Upcoming |
-| 09 | Tableau |✅ Done  |
+| 03 | Python for Data Analysis | ✅ Done |
+| 04 | Tableau | ✅ Done |
+| 05 | Pandas & NumPy | 🔄 In Progress |
+| 06 | Data Visualization (Matplotlib/Seaborn) | ⏳ Upcoming |
+| 07 | Power BI Dashboards | ⏳ Upcoming |
+| 08 | Statistics for Data Analysis | ⏳ Upcoming |
+| 09 | Capstone Projects | ⏳ Upcoming |
 
 > 🔥 **Every project here is built with real datasets. No fake data!**
 
@@ -124,18 +124,18 @@ analyst = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janvee-sharma-a320162ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janvee-sharma-a320162ba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janvee234@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/https://www.kaggle.com/jaanvee)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/https:/jsharma22072004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/https://leetcode.com/u/Janvee_22/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jaanvee)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jsharma22072004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Janvee_22)
 </div>
 
 ---
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Janvee_22&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=bhavishchhabra6100&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer)
 
